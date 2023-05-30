@@ -1,0 +1,11 @@
+.name{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: start;
+}
+.container {
+    text-align: center;
+}
+html{
+  background-color: #bffabe;
+}
